@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 50px;
+}
+.container{
+    border: 2px solid;
+    width: 100vw;
+    height: 350vw;
+    font-size: 20px;
+}
+.unidaded{
+    border: 2px solid blue;
+    width: 600px;
+    height: 350px;
+    font-size: 20px;
+}
+P{
+    font-size: 2em;
+}
+.und{
+    font-size: 2em;
+    color: red;
+}
+h1{
+    border: 2px solid red;
+    width: 50%;
+}
